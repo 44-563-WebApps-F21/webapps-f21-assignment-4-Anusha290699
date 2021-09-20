@@ -1,0 +1,39 @@
+.speech{
+    font-family: "Times New Roman";
+    font-size: 14px;
+    color:black;
+}
+.stage-direction{
+    font-family: "Biome";
+    font-size: 16px;
+    color:black;
+    background-color: lightblue;
+}
+.name{
+    font-family: "Century";
+    font-size: 18px;
+    color:black;
+    background-color: lightgrey;
+}
+.stage-direction.hover{
+    background-color: yellowgreen;
+    color: tomato;
+}
+.JACK{
+    color: teal;
+}
+.ALGERNON{
+    color: violet;
+}
+.LANE{
+    color: gold;
+}
+.LADY BRACKNELL{
+    color: indianred;
+}
+.GWENDOLEN{
+    color: green;
+}
+h6{
+    margin:10px 0;
+}

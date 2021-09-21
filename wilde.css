@@ -39,7 +39,7 @@ h6{
 }
 
 #tablestyle{
-    border-style:solid;
+    border-style:dashed;
     border-color: rgb(87, 32, 32);
     text-align: center;
     padding: 2px;

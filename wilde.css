@@ -39,9 +39,9 @@ h6{
 }
 
 #tablestyle{
-    border-style:solid;
+    border-style:solid blue;
     border-color: rgb(87, 32, 32);
-    text-align: center;
+    text-align: left;
     padding: 12px;
     margin: 14px;
 }

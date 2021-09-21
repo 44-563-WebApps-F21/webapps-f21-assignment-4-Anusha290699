@@ -39,10 +39,10 @@ h6{
 }
 
 #tablestyle{
-    border-style:double;
+    border-style:solid;
     border-color: rgb(87, 32, 32);
     text-align: center;
-    padding: 2px;
-    margin: 4px;
+    padding: 12px;
+    margin: 14px;
 }
     tr:nth-child(even) {background-color:rgb(238, 157, 52)}

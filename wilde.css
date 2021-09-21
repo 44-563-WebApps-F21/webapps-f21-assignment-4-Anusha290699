@@ -42,6 +42,7 @@ table, th, td, tr{
     border-style:solid blue;
     border-color: rgb(87, 32, 32);
     text-align: left;
+    border-collapse: collapse;
     padding: 12px;
     margin: 14px;
 }

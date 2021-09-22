@@ -37,13 +37,13 @@
 h6{
     margin:10px 0;
 }
-
 table, th, td, tr{
-    border-style:solid blue;
-    border-color: rgb(87, 32, 32);
+    border:solid blue;
+    color: blanchedalmond;
     text-align: left;
     border-collapse: collapse;
     padding: 12px;
     margin: 14px;
 }
-    tr:nth-child(even) {background-color:rgb(238, 157, 52)}
+    tr:nth-child(even) {background-color:lightgoldenrodyellow ;}
+  

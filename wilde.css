@@ -39,11 +39,11 @@ h6{
 }
 table, th, td, tr{
     border:solid blue;
-    color: blanchedalmond;
+    color: darkgoldenrod;
     text-align: left;
     border-collapse: collapse;
     padding: 12px;
     margin: 14px;
 }
-    tr:nth-child(even) {background-color:lightgoldenrodyellow ;}
+    tr:nth-child(even) {background-color:lightgrey ;}
   
